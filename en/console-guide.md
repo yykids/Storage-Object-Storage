@@ -67,3 +67,9 @@ Access through web browser and click **Download** to see if files are downloaded
 
 ### Copy Objects
 Copy objects to create  new objects. Create an object under a new name to the container which has an object to copy, or copy objects to another container. 
+
+### Delete Objects
+Delete selected object.
+
+### Prefix search
+If you enter a prefix in the search window and click the **Search** button, you can see the search results of containers, folders, and object that begin with the typed-in prefix. Container list searches containers, and object list searches folders and objects.
