@@ -1,6 +1,12 @@
 ## Storage > Object Storage > Release Notes
 
-### Feb. 25, 2020
+### November 24, 2020
+
+#### Feature Updates
+* Prefix search
+	* Searches containers, folders, or objects that begin with the typed-in prefix
+
+### Feburary 25, 2020
 
 #### More Features
 * Provides APIs compatible with AWS S3
