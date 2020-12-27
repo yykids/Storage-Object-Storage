@@ -42,7 +42,7 @@ All objects must be uploaded to containers. One object cannot be larger than 5GB
 
 For creating a container, if container access policy is set private, only allowed users can access objects. If it is set public, click **Actions > View Public URL** to check public URL of the object. This URL helps to create hyperlink of an object or directly download objects.   
 
-**Example ** 
+**Example** 
 
 * Write Web Pages 
 
